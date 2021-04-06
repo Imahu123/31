@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="el" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_6987 av-cookies-consent-show-message-bar av-cookies-cookie-consent-enabled av-cookies-can-opt-out av-cookies-user-silent-accept avia-cookie-check-browser-settings av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8">
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<meta name="robots" content="noindex, follow">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+				<script type="text/javascript">
+
+				function avia_cookie_check_sessionStorage()
+				{
+					//	FF throws error when all cookies blocked !!
+					var sessionBlocked = false;
+					try
+					{
+						var test = sessionStorage.getItem( 'aviaCookieRefused' ) != null;
+					}
+					catch(e)
+					{
+						sessionBlocked = true;
+					}
+					
+					var aviaCookieRefused = ! sessionBlocked ? sessionStorage.getItem( 'aviaCookieRefused' ) : null;
+					
+					var html = document.getElementsByTagName('html')[0];
+
+					/**
+					 * Set a class to avoid calls to sessionStorage
+					 */
+					if( sessionBlocked || aviaCookieRefused )
+					{
+						if( html.className.indexOf('av-cookies-session-refused') < 0 )
+						{
+							html.className += ' av-cookies-session-refused';
+						}
+					}
+					
+					if( sessionBlocked || aviaCookieRefused || document.cookie.match(/aviaCookieConsent/) )
+					{
+						if( html.className.indexOf('av-cookies-user-silent-accept') >= 0 )
+						{
+							 html.className = html.className.replace(/\bav-cookies-user-silent-accept\b/g, '');
+						}
+					}
+				}
+
+				avia_cookie_check_sessionStorage();
+
+			</script>
+			
+	<!-- This site is optimized with the Yoast SEO plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - CoffeeLab</title>
+	<meta property="og:locale" content="el_GR">
+	<meta property="og:title" content="Page not found - CoffeeLab">
+	<meta property="og:site_name" content="CoffeeLab">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://coffeelab.gr/#organization","name":"Coffee Lab","url":"https://coffeelab.gr/","sameAs":["https://www.facebook.com/CoffeeLabGR","https://www.instagram.com/coffeelabgr/","https://www.youtube.com/channel/UC1WaJCArcJSjFOKMta7YQ2g/feed"],"logo":{"@type":"ImageObject","@id":"https://coffeelab.gr/#logo","inLanguage":"el","url":"https://coffeelab.gr/wp-content/uploads/2018/12/CoffeeLab-logo.png","contentUrl":"https://coffeelab.gr/wp-content/uploads/2018/12/CoffeeLab-logo.png","width":508,"height":234,"caption":"Coffee Lab"},"image":{"@id":"https://coffeelab.gr/#logo"}},{"@type":"WebSite","@id":"https://coffeelab.gr/#website","url":"https://coffeelab.gr/","name":"CoffeeLab","description":"3rd Wave Coffee","publisher":{"@id":"https://coffeelab.gr/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://coffeelab.gr/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"el"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//apis.google.com">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//platform.linkedin.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Ροή RSS &raquo; CoffeeLab" href="https://coffeelab.gr/feed/">
+<link rel="alternate" type="application/rss+xml" title="Ροή Σχολίων &raquo; CoffeeLab" href="https://coffeelab.gr/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="ulp-css" href="../css/style.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="ulp-link-buttons-css" href="../css/link-buttons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="animate.css-css" href="../css/animate.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="spinkit-css" href="../css/spinkit.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="avia-merged-styles-css" href="../css/avia-merged-styles-d8896d9c09a273758f896b1d5fb96622---60477f3a1d481.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/jquery-1.12.4-wp.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../js/jquery-migrate-1.4.1-wp.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="../js/gtm4wp-form-move-tracker.js" id="gtm4wp-form-move-tracker-js"></script>
+<link rel="https://api.w.org/" href="https://coffeelab.gr/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://coffeelab.gr/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://coffeelab.gr/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.7">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = [];
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-598SDCX');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = 'f4160a510f';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://coffeelab.gr/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="alternate" type="application/rss+xml" title="CoffeeLab RSS2 Feed" href="https://coffeelab.gr/feed/">
+<link rel="pingback" href="https://coffeelab.gr/xmlrpc.php">
+<!--[if lt IE 9]><script src="https://coffeelab.gr/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="../images/argos-coffeelab.png" type="image/png">
+<style>.fb_iframe_widget_lift {width: 100% !important; height: 100% !important;}</style>
+		<script>
+			var ulp_custom_handlers = {};
+			var ulp_cookie_value = "ilovelencha";
+			var ulp_onload_popup = "";
+			var ulp_onload_mode = "none";
+			var ulp_onload_period = "5";
+			var ulp_onscroll_popup = "";
+			var ulp_onscroll_mode = "none";
+			var ulp_onscroll_period = "5";
+			var ulp_onexit_popup = "";
+			var ulp_onexit_mode = "none";
+			var ulp_onexit_period = "5";
+			var ulp_onidle_popup = "";
+			var ulp_onidle_mode = "none";
+			var ulp_onidle_period = "5";
+			var ulp_onabd_popup = "";
+			var ulp_onabd_mode = "none";
+			var ulp_onabd_period = "5";
+			var ulp_onload_delay = "5";
+			var ulp_onload_close_delay = "0";
+			var ulp_onscroll_offset = "600";
+			var ulp_onidle_delay = "30";
+			var ulp_recaptcha_enable = "off";
+			var ulp_content_id = "0";
+			var ulp_icl_language = "el";
+		</script>
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script><link rel="icon" href="../images/argos-coffeelab-40-36x36.png" sizes="32x32">
+<link rel="icon" href="../images/argos-coffeelab-40.png" sizes="192x192">
+<link rel="apple-touch-icon" href="../images/argos-coffeelab-40.png">
+<meta name="msapplication-TileImage" content="https://coffeelab.gr/wp-content/uploads/2018/12/argos-coffeelab-40.png">
+		<style type="text/css" id="wp-custom-css">
+			.buttonnews {
+  background-color: #00abef;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+	color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.av-catalogue-title {
+    padding-right: 60px;
+    text-transform: initial!important;
+}
+		</style>
+		<style type="text/css">
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('entypo-fontello.woff2') format('woff2'),
+url('entypo-fontello.woff') format('woff'),
+url('entypo-fontello.ttf') format('truetype'), 
+url('entypo-fontello.svg#entypo-fontello') format('svg'),
+url('entypo-fontello.eot'),
+url('entypo-fontello.eot#iefix') format('embedded-opentype');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+
+@font-face {font-family: 'fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('fontello.woff2') format('woff2'),
+url('fontello.woff') format('woff'),
+url('fontello.ttf') format('truetype'), 
+url('fontello.svg#fontello') format('svg'),
+url('fontello.eot'),
+url('fontello.eot#iefix') format('embedded-opentype');
+} #top .avia-font-fontello, body .avia-font-fontello, html body [data-av_iconfont='fontello']:before{ font-family: 'fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.8.1
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.8
+aviaElementManager Version: 1.0.1
+ML:512-PU:32-PLA:17
+WP:5.7
+Compress: CSS:all theme files - JS:all theme files
+Updates: enabled - token has changed and not verified
+PLAu:15
+-->
+</head>
+
+
+
+
+<body data-rsssl="1" id="top" class="error404  rtl_columns stretched comfortaa" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	<div id="wrap_all">
+
+	
+<header id="header" class="all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		<div id="header_meta" class="container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_secondary_right av_phone_active_left av_entry_id_6987">
+		
+			      <div class="container">
+			      <ul class="noLightbox social_bookmarks icon_count_5"><li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/CoffeeLabGR" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li><li class="social_bookmarks_instagram av-social-link-instagram social_icon_2"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/coffeelabgr/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li><li class="social_bookmarks_youtube av-social-link-youtube social_icon_3"><a target="_blank" aria-label="Link to Youtube" href="https://www.youtube.com/channel/UComQVDIqNTc2EWWE_34v1Kg" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube" rel="noopener"><span class="avia_hidden_link_text">Youtube</span></a></li><li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_4"><a target="_blank" aria-label="Link to LinkedIn" href="https://gr.linkedin.com/company/coffeelab-gr?trk=public_profile_topcard_current_company" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn" rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li><li class="social_bookmarks_mail av-social-link-mail social_icon_5"><a aria-label="Link to Mail" href="https://coffeelab.gr/contact/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Mail"><span class="avia_hidden_link_text">Mail</span></a></li></ul><nav class="sub_menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="avia2-menu" class="menu"><li id="menu-item-4684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4684"><a href="https://coffeelab.gr/politiki-aporritou/">Πολιτική Απορρήτου</a></li>
+<li id="menu-item-10496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10496"><a href="https://coffeelab.gr/politiki-ton-cookies/">Πολιτική των Cookies</a></li>
+<li id="menu-item-4053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://coffeelab.gr/contact/">Επικοινωνία</a></li>
+<li id="menu-item-5312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5312"><a href="https://coffeelab.gr/theseis-ergasias/">Θέσεις Εργασίας</a></li>
+<li id="menu-item-6368-en" class="lang-item lang-item-69 lang-item-en no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-6368-en"><a href="https://coffeelab.gr/en/" hreflang="en-GB" lang="en-GB"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAflJREFUeNpinDRzn5qN3uFDt16+YWBg+Pv339+KGN0rbVP+//2rW5tf0Hfy/2+mr99+yKpyOl3Ydt8njEWIn8f9zj639NC7j78eP//8739GVUUhNUNuhl8//ysKeZrJ/v7z10Zb2PTQTIY1XZO2Xmfad+f7XgkXxuUrVB6cjPVXef78JyMjA8PFuwyX7gAZj97+T2e9o3d4BWNp84K1NzubTjAB3fH0+fv6N3qP/ir9bW6ozNQCijB8/8zw/TuQ7r4/ndvN5mZgkpPXiis3Pv34+ZPh5t23//79Rwehof/9/NDEgMrOXHvJcrllgpoRN8PFOwy/fzP8+gUlgZI/f/5xcPj/69e/37//AUX+/mXRkN555gsOG2xt/5hZQMwF4r9///75++f3nz8nr75gSms82jfvQnT6zqvXPjC8e/srJQHo9P9fvwNtAHmG4f8zZ6dDc3bIyM2LTNlsbtfM9OPHH3FhtqUz3eXX9H+cOy9ZMB2o6t/Pn0DHMPz/b+2wXGTvPlPGFxdcD+mZyjP8+8MUE6sa7a/xo6Pykn1s4zdzIZ6///8zMGpKM2pKAB0jqy4UE7/msKat6Jw5mafrsxNtWZ6/fjvNLW29qv25pQd///n+5+/fxDDVbcc//P/zx/36m5Ub9zL8+7t66yEROcHK7q5bldMBAgwADcRBCuVLfoEAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;"></a></li>
+</ul></nav><div class="phone-info with_nav"><span>☎ <a href="tel:00302168004940">+302168004940</a></span></div>			      </div>
+		</div>
+
+		<div id="header_main" class="container_wrap container_wrap_logo">
+	
+        <div class="container av-logo-container"><div class="inner-container"><span class="logo"><a href="https://coffeelab.gr/"><img height="100" width="300" src="../images/coffeelab-logo-tell.png" alt="CoffeeLab" title></a></span><nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-3497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="https://coffeelab.gr/etaireia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Εταιρεία</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-4835" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/i-paragogi-mas/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Η Παραγωγή μας</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-2"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ο Καφές μας</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class="avia_mega_div avia_mega2 six units">
+
+<ul class="sub-menu">
+	<li id="menu-item-6122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_2 three units  avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://coffeelab.gr/farmes/">Coffee Lab Farms</a></span>
+	<ul class="sub-menu">
+		<li id="menu-item-4371" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/poikilies/brazil/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Βραζιλία</span></a></li>
+		<li id="menu-item-5216" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/poikilies/kenya/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Κένυα</span></a></li>
+		<li id="menu-item-5217" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/poikilies/ethiopia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Αιθιοπία</span></a></li>
+		<li id="menu-item-5218" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/poikilies/guatemala/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Γουατεμάλα</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-4404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_2 three units avia_mega_menu_columns_last"><span class="mega_menu_title heading-color av-special-font"><a href="https://coffeelab.gr/in-season-project/">In Season Project</a></span>
+	<ul class="sub-menu">
+		<li id="menu-item-10951" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/nicaragua/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Nicaragua</span></a></li>
+		<li id="menu-item-5629" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/bolivia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Bolivia</span></a></li>
+		<li id="menu-item-5597" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/colombia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Colombia</span></a></li>
+		<li id="menu-item-6750" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/panama/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Panama</span></a></li>
+		<li id="menu-item-8048" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/pacamara/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Pacamara</span></a></li>
+		<li id="menu-item-9298" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/in-season-project/rwanda/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rwanda</span></a></li>
+	</ul>
+</li>
+
+</ul><ul class="sub-menu avia_mega_hr">
+	<li id="menu-item-11264" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_2 three units  avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="https://coffeelab.gr/ellinikos-kafes/">Ο Ελληνικός μας</a></span></li>
+	<li id="menu-item-10541" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_2 three units avia_mega_menu_columns_last"><span class="mega_menu_title heading-color av-special-font"><a href="https://coffeelab.gr/oi-kapsoules-mas/">Οι κάψουλές μας</a></span></li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-9150" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-mega-parent  menu-item-top-level menu-item-top-level-3"><a href="https://coffeelab.gr/me-lene-argus-den-eimai-apla-ena-etairiko-logotypo/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Argus!</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="https://coffeelab.gr/franchise-kafe/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Franchise</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-5"><a href="https://coffeelab.gr/katalogos/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Κατάλογος</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-8171" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://coffeelab.gr/wp-content/uploads/2020/11/COFFEELAB_SITE_2020_GR.pdf" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Menu</span></a></li>
+	<li id="menu-item-4268" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://coffeelab.gr/katalogos/kafekopteio/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Καφεκοπτείο</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://coffeelab.gr/katastimata/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Καταστήματα</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"><a href="https://coffeelab.gr/blog/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://coffeelab.gr/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class="header_bg"></div>
+
+<!-- end header -->
+</header>
+		
+	<div id="main" class="all_colors" data-scroll-offset="88">
+
+	<div class="stretch_full container_wrap alternate_color light_bg_color title_container"><div class="container"><h1 class="main-title entry-title "><a href="https://coffeelab.gr/coffee-lab-farms-chapter-1-ethiopia/" rel="bookmark" title="Permanent Link: Error 404 - page not found" itemprop="headline">Error 404 - page not found</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail"><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span> <span itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList"><span itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="url" href="https://coffeelab.gr" title="CoffeeLab" rel="home" class="trail-begin"><span itemprop="name">Home</span></a><span itemprop="position" class="hidden">1</span></span></span> <span class="sep">/</span> <span class="trail-end">404 Not Found</span></div></div></div></div>
+
+		<div class="container_wrap container_wrap_first main_color fullsize">
+			
+						
+			<div class="container">
+
+				<main class="template-page content av-content-full alpha units" role="main" itemprop="mainContentOfPage">
+
+
+                    <div class="entry entry-content-wrapper clearfix" id="search-fail">
+                    
+<p class="entry-content"><strong>Nothing Found</strong><br>
+
+Sorry, the post you are looking for is not available. Maybe you want to perform a search?</p>
+
+
+<form action="https://coffeelab.gr/" id="searchform" method="get" class>
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello">
+		<input type="text" id="s" name="s" value placeholder="Search">
+			</div>
+</form>
+
+
+<div class="hr_invisible"></div>
+
+<section class="404_recommendation">
+    <p><strong>For best search results, mind the following suggestions:</strong></p>
+    <ul class="borderlist-not">
+        <li>Always double check your spelling.</li>
+        <li>Try similar keywords, for example: tablet instead of laptop.</li>
+        <li>Try using more than one keyword.</li>
+    </ul>
+
+    <div class="hr_invisible"></div>
+
+    </section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+		<div class="container_wrap footer-page-content footer_color" id="footer-page"><div id="av-layout-grid-1" class="av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-0  el_before_av_section  avia-builder-el-first  container_wrap fullsize" style=" ">
+<div class="flex_cell no_margin av_one_full  avia-builder-el-1  avia-builder-el-no-sibling   "><div class="flex_cell_inner">
+<section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock  " itemprop="text">
+            <div class="elfsight-widget-instagram-feed elfsight-widget" data-elfsight-instagram-feed-options="%7B%22sourceType%22%3A%22personalAccount%22%2C%22apiChangesMessage%22%3Anull%2C%22source%22%3A%5B%22%40coffeelabgr%22%5D%2C%22personalAccessToken%22%3A%22e71bf2ed-41ed-4ef2-a761-20b716868a6a%22%2C%22businessAccessToken%22%3A%223302b602-b9c3-4840-ac7d-0b0fb4db0baf%22%2C%22businessAccount%22%3A%7B%22name%22%3A%22CoffeeLab%20Official%22%2C%22value%22%3A%2217841400052946027%22%2C%22username%22%3A%22coffeelabgr%22%2C%22profile_picture_url%22%3A%22https%3A%5C%2F%5C%2Fscontent-frt3-1.xx.fbcdn.net%5C%2Fv%5C%2Ft51.2885-15%5C%2F83033691_591963108044345_4931852087764975616_n.jpg%3F_nc_cat%3D107%26_nc_sid%3D86c713%26_nc_ohc%3DiUrhQS0xcoYAX8Y8NwB%26_nc_ht%3Dscontent-frt3-1.xx%26oh%3De83e803e27a90dca6db5661537fe2ac4%26oe%3D5F7CA81B%22%7D%2C%22businessHashtag%22%3A%22%23eiffeltower%22%2C%22filterOnly%22%3A%5B%5D%2C%22filterExcept%22%3A%5B%5D%2C%22limit%22%3A%22%22%2C%22order%22%3A%22date%22%2C%22layout%22%3A%22slider%22%2C%22postTemplate%22%3A%22tile%22%2C%22columns%22%3A6%2C%22rows%22%3A2%2C%22gutter%22%3A0%2C%22responsive%22%3A%5B%7B%22minWidth%22%3A375%2C%22columns%22%3A1%2C%22rows%22%3A1%2C%22gutter%22%3A%220%22%7D%2C%7B%22minWidth%22%3A768%2C%22columns%22%3A3%2C%22rows%22%3A2%2C%22gutter%22%3A%220%22%7D%5D%2C%22width%22%3A%22auto%22%2C%22callToActionButtons%22%3A%5B%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmr7eH0nyxQ%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%2C%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmgZy5FnnQB%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%2C%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmbbCfBndRU%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%5D%2C%22postElements%22%3A%5B%22user%22%2C%22date%22%2C%22instagramLink%22%2C%22likesCount%22%2C%22commentsCount%22%2C%22share%22%2C%22text%22%5D%2C%22popupElements%22%3A%5B%22user%22%2C%22location%22%2C%22followButton%22%2C%22instagramLink%22%2C%22likesCount%22%2C%22share%22%2C%22text%22%2C%22comments%22%2C%22date%22%5D%2C%22imageClickAction%22%3A%22popup%22%2C%22sliderArrows%22%3Atrue%2C%22sliderDrag%22%3Atrue%2C%22sliderSpeed%22%3A0.59999999999999997779553950749686919152736663818359375%2C%22sliderAutoplay%22%3A%22%22%2C%22colorScheme%22%3A%22default%22%2C%22colorPostOverlayBg%22%3A%22rgba%280%2C%200%2C%200%2C%200.8%29%22%2C%22colorPostOverlayText%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPostBg%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPostText%22%3A%22rgb%280%2C%200%2C%200%29%22%2C%22colorPostLinks%22%3A%22rgb%280%2C%2053%2C%20107%29%22%2C%22colorSliderArrows%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorSliderArrowsBg%22%3A%22rgba%280%2C%200%2C%200%2C%200.9%29%22%2C%22colorGridLoadMoreButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22colorPopupOverlay%22%3A%22rgba%2843%2C%2043%2C%2043%2C%200.9%29%22%2C%22colorPopupBg%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPopupText%22%3A%22rgb%280%2C%200%2C%200%29%22%2C%22colorPopupLinks%22%3A%22rgb%280%2C%2053%2C%20105%29%22%2C%22colorPopupFollowButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22colorPopupCtaButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22widgetTitle%22%3A%22%5Cu0391%5Cu03ba%5Cu03bf%5Cu03bb%5Cu03bf%5Cu03c5%5Cu03b8%5Cu03ae%5Cu03c3%5Cu03c4%5Cu03b5%20%5Cu03bc%5Cu03b1%5Cu03c2%20%5Cu03c3%5Cu03c4%5Cu03bf%20Instagram%22%2C%22lang%22%3A%22en%22%2C%22apiUrl%22%3A%22https%3A%5C%2F%5C%2Fcoffeelab.gr%5C%2Fwp-json%5C%2Felfsight-instagram-feed%5C%2Fapi%22%2C%22apiProxyUrl%22%3A%22https%3A%5C%2F%5C%2Fcoffeelab.gr%5C%2Fwp-json%5C%2Felfsight-instagram-feed%22%2C%22widgetId%22%3A%221%22%7D" data-elfsight-instagram-feed-version="4.0.2" data-elfsight-widget-id="elfsight-instagram-feed-1">
+            </div>
+            
+</div></section>
+</div></div>
+</div>
+<div id="av_section_1" class="avia-section footer_color avia-section-default avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-3  el_after_av_layout_row  avia-builder-el-last   container_wrap fullsize" style="background-color: #222222;  "><div class="container"><div class="template-page content  av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-6987"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_one_third  flex_column_div av-zero-column-padding first  avia-builder-el-4  el_before_av_one_third  avia-builder-el-first  " style="border-radius:0px; "><div class="avia-builder-widget-area clearfix  avia-builder-el-5  avia-builder-el-no-sibling "><section id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><p class="title"><strong><img loading="lazy" class="alignnone wp-image-5999 size-full" src="../images/footer-coffeelab-logo.png" alt width="200" height="232"></strong></p>
+<p>Κεντρικά Γραφεία</p>
+<p class="txt_sm">Παραγωγικές Εγκαταστάσεις<br>
+Εκπαιδευτικό Κέντρο</p>
+<p>Διεύθυνση: Κύπρου 10, Μοσχάτο, 18346<br>
+Τηλέφωνο: 216 8004940<br>
+Email: <a title="FRANCHISE ΚΑΦΕ email" href="mailto:info@coffeelab.gr">info (@) coffeelab.gr</a></p>
+</div>
+		<span class="seperator extralight-border"></span></section></div></div><div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-6  el_after_av_one_third  el_before_av_one_third  " style="border-radius:0px; "><div class="avia-builder-widget-area clearfix  avia-builder-el-7  avia-builder-el-no-sibling "><section id="custom_html-2" class="widget_text widget clearfix widget_custom_html"><h3 class="widgettitle">Coffee Lab Friends</h3><div class="textwidget custom-html-widget"><form action="https://news.pixelize.eu/index.php/lists/ca990y2ph3760/subscribe" method="post">
+	<div class="box box-primary borderless">
+<div class="box-body">
+<div class="callout callout-info">Εγγραφή στο Newsletter μας.<br>
+Θα λάβετε email επιβεβαίωσης!<br>
+</div>
+
+<div class="form-group field-text wrap-email">
+	<input class="form-control field-email field-type-text" placeholder="Email" type="text" name="EMAIL" id="EMAIL">        </div>
+</div>
+<div class="box-footer">
+<div class="pull-right"><input type="submit" class="btn btn-primary btn-flat" name="yt0" value="Subscribe"></div>
+
+<div class="clearfix"> </div>
+</div>
+</div>
+					</form></div><span class="seperator extralight-border"></span></section></div></div><div class="flex_column av_one_third  flex_column_div av-zero-column-padding   avia-builder-el-8  el_after_av_one_third  avia-builder-el-last  " style="border-radius:0px; "><div class="avia-builder-widget-area clearfix  avia-builder-el-9  avia-builder-el-no-sibling "><section id="avia_fb_likebox-3" class="widget clearfix avia_fb_likebox"><h3 class="widgettitle">Ακολουθήστε μας στο Facebook</h3><div class="av_facebook_widget_wrap "><div class="fb-page" data-width="500" data-href="https://www.facebook.com/CoffeeLabGR/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div></div><span class="seperator extralight-border"></span></section></div></div>
+</div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element --></div>
+
+	
+				<footer class="container_wrap socket_color" id="socket" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+                    <div class="container">
+
+                        <span class="copyright">© Copyright 2019 - CoffeeLab | Powered by <a href="https://pixelize.eu" target="blank_">Pixelize</a></span>
+
+                        <ul class="noLightbox social_bookmarks icon_count_5"><li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/CoffeeLabGR" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li><li class="social_bookmarks_instagram av-social-link-instagram social_icon_2"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/coffeelabgr/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li><li class="social_bookmarks_youtube av-social-link-youtube social_icon_3"><a target="_blank" aria-label="Link to Youtube" href="https://www.youtube.com/channel/UComQVDIqNTc2EWWE_34v1Kg" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube" rel="noopener"><span class="avia_hidden_link_text">Youtube</span></a></li><li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_4"><a target="_blank" aria-label="Link to LinkedIn" href="https://gr.linkedin.com/company/coffeelab-gr?trk=public_profile_topcard_current_company" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn" rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li><li class="social_bookmarks_mail av-social-link-mail social_icon_5"><a aria-label="Link to Mail" href="https://coffeelab.gr/contact/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Mail"><span class="avia_hidden_link_text">Mail</span></a></li></ul>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<div class="avia-cookie-consent-wrap" aria-hidden="true"><div class="avia-cookie-consent cookiebar-hidden  avia-cookiemessage-bottom" aria-hidden="true" data-contents="6725d727b0fbbab38b98a8d439f263b6||v1.0"><div class="container"><p class="avia_cookie_text">Η ιστοσελίδα χρησιμοποιεί cookies. Συνεχίζοντας την πλοήγηση αποδέχεστε αυτόματα την χρήση τους.</p><a href="#" class="avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-1  avia-cookie-close-bar ">OK</a><a href="https://coffeelab.gr/politiki-ton-cookies/" class="avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-2 av-extra-cookie-btn  avia-cookie-link-btn ">Δείτε περισσότερα</a></div></div><div id="av-consent-extra-info" class="av-inline-modal main_color avia-hide-popup-close"><div style="padding-bottom:10px; margin: 10px 0 0 0;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  "><h3 class="av-special-heading-tag " itemprop="headline">Cookies και Πολιτική Απορρήτου</h3><div class="special-heading-border"><div class="special-heading-inner-border"></div></div></div><br><div style=" margin-top:0px; margin-bottom:0px;" class="hr hr-custom hr-left hr-icon-no  "><span class="hr-inner  inner-border-av-border-thin" style=" width:100%;"><span class="hr-inner-style"></span></span></div><br><div class="tabcontainer   sidebar_tab sidebar_tab_left noborder_tabs " role="tablist">
+<section class="av_tab_section"><div aria-controls="tab-id-1-content" role="tab" tabindex="0" data-fake-id="#tab-id-1" class="tab active_tab">Πως χρησιμοποιούμε τα cookies</div>
+<div id="tab-id-1-content" class="tab_content active_tab_content" aria-hidden="false">
+<div class="tab_inner_content invers-color">
+<p>Η Εταιρεία μας συλλέγει και επεξεργάζεται προσωπικά δεδομένα με σκοπό να παρέχει τα προϊόντα και τις υπηρεσίες της, καθώς και για να  είναι σε θέση να εκπληρώσει τις υποχρεώσεις που αναλαμβάνει έναντι των (υποψήφιων) πελατών και προμηθευτών της.</p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section"><div aria-controls="tab-id-2-content" role="tab" tabindex="0" data-fake-id="#tab-id-2" class="tab ">Απαραίτητα Cookies</div>
+<div id="tab-id-2-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color">
+<p>Τα συγκεκριμένα cookies είναι απαραίτητα διότι χωρίς αυτά δεν μπορείτε να χρησιμοποιήσετε συγκεκριμένες λειτουργίες της ιστοσελίδας και για τον λόγο αυτό δεν μπορείτε να τα αποφύγετε. Όμως μπορείτε να τα μπλοκάρετε ή να τα διαγράψετε μέσω του φυλλομετρητή σας.</p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section"><div aria-controls="tab-id-3-content" role="tab" tabindex="0" data-fake-id="#tab-id-3" class="tab ">Google Analytics Cookies</div>
+<div id="tab-id-3-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color">
+<p>Τα cookies αυτά χρησιμοποιούντε για να καταλάβουμε πως χρησιμοποιείτε η ιστοσελίδα μας, πόσο αποτελεσματικές είναι οι διαφημιστικές μας ενέργειες αλλά και τι θα μπορούσαμε να αλλάξουμε για να γίνει πιο χρήσιμο και πρακτικό.</p>
+<p>Άν δεν συμφωνείτε μπορείτε να τα απενεργοποιήσετε εδώ: <div data-disabled_by_browser="Please enable this feature in your browser settings and reload the page." class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled"><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Analytics tracking.</span></label></div></p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section"><div aria-controls="tab-id-4-content" role="tab" tabindex="0" data-fake-id="#tab-id-4" class="tab ">Άλλες Εξωτερικές Υπηρεσίες</div>
+<div id="tab-id-4-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color">
+<p>Χρησιμοποιούμε επίσης εξωτερικές υπηρεσίες όπως τα Google Webfonts, Google Maps και παρόχους βίντεο όπως το Youtube. Οι πάροχοι αυτοί συλλέγουν προσωπικά δεδομένα όπως την διεύθυνση IP και για αυτό τον λόγο μπορείτε να τα απενεργοποιήσετε εδώ. Με την ενέργεια αυτή υπάρχει περίπτωση να επηρεαστεί η λειτουργικότητα και η εμφάνιση της ιστοσελίδας. Οι αλλαγές θα πραγματοποιηθούν μετά την ανανέωση του φυλλομετρητή.</p>
+<p>Google Webfont:<br>
+<div class="av-switch-aviaPrivacyGoogleWebfontsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleWebfontsDisabled" class="aviaPrivacyGoogleWebfontsDisabled " name="aviaPrivacyGoogleWebfontsDisabled"><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Webfonts.</span></label></div></p>
+<p>Google Maps:<br>
+<div class="av-switch-aviaPrivacyGoogleMapsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleMapsDisabled" class="aviaPrivacyGoogleMapsDisabled " name="aviaPrivacyGoogleMapsDisabled"><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Maps.</span></label></div></p>
+<p>Vimeo and Youtube:<br>
+<div class="av-switch-aviaPrivacyVideoEmbedsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyVideoEmbedsDisabled" class="aviaPrivacyVideoEmbedsDisabled " name="aviaPrivacyVideoEmbedsDisabled"><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable video embeds.</span></label></div></p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section"><div aria-controls="tab-id-5-content" role="tab" tabindex="0" data-fake-id="#tab-id-5" class="tab ">Πολιτική Απορρήτου</div>
+<div id="tab-id-5-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color">
+<p>Εάν θέλετε να μάθετε περισσότερα για την πολιτική απορρήτου και τα cookies που χρησιμοποιούμε μπορείτε να διαβάσετε την <a href="https://coffeelab.gr/politiki-aporritou/" target="_blank">Πολιτική Απορρήτου</a>.</p>
+
+</div>
+</div>
+</section>
+</div>
+<div class="avia-cookie-consent-modal-buttons-wrap"><a href="#" class="avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-3  avia-cookie-close-bar avia-cookie-consent-modal-button" title="Allow to use cookies, you always can modify used cookies and services">Accept settings</a><a href="#" class="avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-4 av-extra-cookie-btn avia-cookie-consent-modal-button avia-cookie-hide-notification" title="Do not allow to use cookies or services - some functionality on our site might not work as expected.">Hide notification only</a></div><div class="av-hidden-escential-sc" data-hidden_cookies="aviaPrivacyRefuseCookiesHideBar,aviaPrivacyEssentialCookiesEnabled"><div class="av-switch-aviaPrivacyRefuseCookiesHideBar av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyRefuseCookiesHideBar" class="aviaPrivacyRefuseCookiesHideBar " name="aviaPrivacyRefuseCookiesHideBar"><span class="toggle-track"></span><span class="toggle-label-content">Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.</span></label></div><div class="av-switch-aviaPrivacyEssentialCookiesEnabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyEssentialCookiesEnabled" class="aviaPrivacyEssentialCookiesEnabled " name="aviaPrivacyEssentialCookiesEnabled"><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable essential site cookies.</span></label></div></div></div></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ <script type="text/javascript">
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://coffeelab.gr/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://coffeelab.gr/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://coffeelab.gr/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/el/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script><link rel="stylesheet" id="elfsight-instagram-feed-custom-css" href="../css/elfsight-instagram-feed-custom.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/plusone.js" id="plusone-js"></script>
+<script type="text/javascript" src="../js/widgets.js" id="twittersdk-js"></script>
+<script type="text/javascript" src="../js/in.js" id="linkedin-js"></script>
+<script type="text/javascript" id="avia-cookie-js-js-extra">
+/* <![CDATA[ */
+var AviaPrivacyCookieConsent = {"?":"Usage unknown","aviaCookieConsent":"Use and storage of Cookies has been accepted - restrictions set in other cookies","aviaPrivacyRefuseCookiesHideBar":"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set","aviaPrivacyEssentialCookiesEnabled":"Allow storage of site essential cookies and other cookies and use of features if not opt out","aviaPrivacyVideoEmbedsDisabled":"Do not allow video embeds","aviaPrivacyGoogleTrackingDisabled":"Do not allow Google Analytics","aviaPrivacyGoogleWebfontsDisabled":"Do not allow Google Webfonts","aviaPrivacyGoogleMapsDisabled":"Do not allow Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Do not allow Google reCaptcha","aviaPrivacyMustOptInSetting":"Settings are for users that must opt in for cookies and services","PHPSESSID":"Operating site internal cookie - Keeps track of your session","XDEBUG_SESSION":"Operating site internal cookie - PHP Debugger session cookie","wp-settings*":"Operating site internal cookie","wordpress*":"Operating site internal cookie","tk_ai*":"Shop internal cookie","woocommerce*":"Shop internal cookie","wp_woocommerce*":"Shop internal cookie","wp-wpml*":"Needed to manage different languages"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\n\nAre you sure you want to continue?","no_cookies_found":"No accessable cookies found in domain","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":[],"no_lightbox":"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\n\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-snippet-cookieconsent.js "};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/script.min.js" id="ulp-js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js" id="wp-embed-js"></script>
+<script type="text/javascript" src="../js/elfsight-instagram-feed.js" id="elfsight-instagram-feed-js"></script>
+<script type="text/javascript" id="avia-footer-scripts-js-extra">
+/* <![CDATA[ */
+var AviaPrivacyCookieConsent = {"?":"Usage unknown","aviaCookieConsent":"Use and storage of Cookies has been accepted - restrictions set in other cookies","aviaPrivacyRefuseCookiesHideBar":"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set","aviaPrivacyEssentialCookiesEnabled":"Allow storage of site essential cookies and other cookies and use of features if not opt out","aviaPrivacyVideoEmbedsDisabled":"Do not allow video embeds","aviaPrivacyGoogleTrackingDisabled":"Do not allow Google Analytics","aviaPrivacyGoogleWebfontsDisabled":"Do not allow Google Webfonts","aviaPrivacyGoogleMapsDisabled":"Do not allow Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Do not allow Google reCaptcha","aviaPrivacyMustOptInSetting":"Settings are for users that must opt in for cookies and services","PHPSESSID":"Operating site internal cookie - Keeps track of your session","XDEBUG_SESSION":"Operating site internal cookie - PHP Debugger session cookie","wp-settings*":"Operating site internal cookie","wordpress*":"Operating site internal cookie","tk_ai*":"Shop internal cookie","woocommerce*":"Shop internal cookie","wp_woocommerce*":"Shop internal cookie","wp-wpml*":"Needed to manage different languages"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\n\nAre you sure you want to continue?","no_cookies_found":"No accessable cookies found in domain","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":[],"no_lightbox":"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\n\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-snippet-cookieconsent.js "};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/avia-footer-scripts-3ebbc472b7776147301dbcd05df491d1---60477f3a647df.js" id="avia-footer-scripts-js"></script>
+<script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=el; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());</script>
+		<script>
+			var ulp_ajax_url = "https://coffeelab.gr/wp-admin/admin-ajax.php";
+			var ulp_count_impressions = "on";
+			var ulp_async_init = "on";
+			var ulp_css3_enable = "on";
+			var ulp_ga_tracking = "off";
+			var ulp_km_tracking = "off";
+			var ulp_onexit_limits = "off";
+			var ulp_no_preload = "on";
+			var ulp_campaigns = {"ab-JYaA7JM3hTQxvVrp":[""],"none":[""]};
+			var ulp_overlays = {"none":["", "", "", "", ""]};
+			if (typeof ulp_init == "function") { 
+				ulp_init(); jQuery(document).ready(function() {ulp_ready();});
+			} else {
+				jQuery(document).ready(function(){ulp_init(); ulp_ready();});
+			}
+		</script><script src="../js/ads.js"></script><script type="text/javascript">function av_privacy_cookie_setter( cookie_name ) {var cookie_check = jQuery('html').hasClass('av-cookies-needs-opt-in') || jQuery('html').hasClass('av-cookies-can-opt-out');var toggle = jQuery('.' + cookie_name);toggle.each(function(){var container = jQuery(this).closest('.av-toggle-switch');if( cookie_check && ! document.cookie.match(/aviaCookieConsent/) ){this.checked = container.hasClass( 'av-cookie-default-checked' );}else if( cookie_check && document.cookie.match(/aviaCookieConsent/) && ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) && cookie_name != 'aviaPrivacyRefuseCookiesHideBar' ){if( cookie_name == 'aviaPrivacyEssentialCookiesEnabled' ){this.checked = false;}else{this.checked = container.hasClass( 'av-cookie-default-checked' );}}else{if( container.hasClass('av-cookie-save-checked') ){this.checked = document.cookie.match(cookie_name) ? true : false;}else{this.checked = document.cookie.match(cookie_name) ? false : true;}}});jQuery('.' + 'av-switch-' + cookie_name).addClass('active');toggle.on('click', function(){/* sync if more checkboxes exist because user added them to normal page content */var check = this.checked;jQuery('.' + cookie_name).each( function(){this.checked = check;});var silent_accept_cookie = jQuery('html').hasClass('av-cookies-user-silent-accept');if( ! silent_accept_cookie && cookie_check && ! document.cookie.match(/aviaCookieConsent/) || sessionStorage.getItem( 'aviaCookieRefused' ) ){return;}var container = jQuery(this).closest('.av-toggle-switch');var action = '';if( container.hasClass('av-cookie-save-checked') ){action = this.checked ? 'save' : 'remove';}else{action = this.checked ? 'remove' : 'save';}if('remove' == action){document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{var theDate = new Date();var oneYearLater = new Date( theDate.getTime() + 31536000000 );document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';';}});}; av_privacy_cookie_setter('aviaPrivacyRefuseCookiesHideBar');  av_privacy_cookie_setter('aviaPrivacyEssentialCookiesEnabled');  av_privacy_cookie_setter('aviaPrivacyGoogleTrackingDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleWebfontsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleMapsDisabled');  av_privacy_cookie_setter('aviaPrivacyVideoEmbedsDisabled'); </script>
+<!-- google webfont font replacement -->
+
+			<script type="text/javascript">
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Comfortaa:300,400,700';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+			</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is 404) 
+
+Served from: coffeelab.gr @ 2021-04-06 15:14:33 by W3 Total Cache
+-->
