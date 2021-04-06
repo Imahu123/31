@@ -1,0 +1,42 @@
+@import url(css.css);
+
+@font-face {
+    font-family: 'PFFuturaRounded-Heavy';
+    src: url('../fonts/PFFuturaRounded-Heavy_1.eot');
+}
+
+@font-face {
+    font-family: 'PFFuturaRounded-Heavy';
+    src: url('../fonts/PFFuturaRounded-Heavy_1.woff') format('woff'),
+        url('../fonts/PFFuturaRounded-Heavy_1.svg#PFFuturaRounded-Heavy') format('svg');
+}
+@font-face {
+    font-family: 'PFFuturaRounded-HeavyOblique';
+    src: url('../fonts/PFFuturaRounded-HeavyOblique_1.eot');
+}
+
+@font-face {
+    font-family: 'PFFuturaRounded-HeavyOblique';
+    src: url('../fonts/PFFuturaRounded-HeavyOblique_1.woff') format('woff'),
+        url('../fonts/PFFuturaRounded-HeavyOblique_1.svg#PFFuturaRounded-HeavyOblique') format('svg');
+}
+@font-face {
+    font-family: 'PFFuturaRounded-Light';
+    src: url('../fonts/PFFuturaRounded-Light_1.eot');
+}
+
+@font-face {
+    font-family: 'PFFuturaRounded-Light';
+    src: url('../fonts/PFFuturaRounded-Light_1.woff') format('woff'),
+        url('../fonts/PFFuturaRounded-Light_1.svg#PFFuturaRounded-Light') format('svg');
+}
+@font-face {
+    font-family: 'PFFuturaRounded-LightOblique';
+    src: url('../fonts/PFFuturaRounded-LightOblique_1.eot');
+}
+
+@font-face {
+    font-family: 'PFFuturaRounded-LightOblique';
+    src: url('../fonts/PFFuturaRounded-LightOblique_1.woff') format('woff'),
+        url('../fonts/PFFuturaRounded-LightOblique_1.svg#PFFuturaRounded-LightOblique') format('svg');
+}

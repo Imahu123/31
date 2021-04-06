@@ -1,0 +1,49 @@
+BODY, HTML, DIV, BLOCKQUOTE, IMG, LABEL, P, H1, H2, H3, H4, H5, H6, PRE, UL, OL, LI, DL, DT, DD, FORM, A, FIELDSET
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+}
+TH, TD
+{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+BODY, HTML
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+BODY
+{
+	line-height: 1;
+}
+H1, H2, H3, H4, H5, H6
+{
+	font-size: 100%;
+	padding: 0.6em 0;
+	margin: 0;
+}
+UL, OL
+{
+	list-style: none;
+}
+A
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.floatLeft
+{
+	float: left;
+	padding: 0.5em 0.5em 0.5em 0;
+}
+.floatRight
+{
+	float: right;
+	padding: 0.5em 0 0.5em 0.5em;
+}

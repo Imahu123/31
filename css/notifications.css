@@ -1,0 +1,16 @@
+.notificationContainer {
+	position: absolute;
+	padding: 40px 20px;
+	border: 1px solid #0f4722; 
+	background-color: #fff;		
+}
+
+.notificationContainer  .notificationContent {
+	width: 100%;
+	text-align: center;
+	color: #e44200 !important;
+}
+
+.notificationContainer  .notificationContent a {
+	color: #e44200 !important;
+}

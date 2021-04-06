@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Error 404</title>
+    <meta name="description" content>
+	<meta name="keywords" content>
+
+    <!-- Le styles -->
+    <link href="../css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="../favicon_2.ico">
+  </head>
+
+  <body>
+		
+		<div class="field">
+			<div class="wrapper">
+				<div class="ufo-text"> <img src="oh-no.png" alt width="204" height="58" class="oh-no">
+				  <h1>Αυτό που ψάχνεις, βρίσκεται σε άλλο γαλαξία τώρα...</h1>
+					
+					<div class="menu">
+						<nav>
+							<ul>
+								<li><a href="https://www.pizzafan.gr/el">Πηγαινε πισω στον πλανητη Γη!</a></li>
+							</ul>
+						</nav>
+					</div>
+					
+					
+			  </div>
+				<img src="light.png" class="light" alt>
+				<img src="ufo.png" class="ufo" alt>
+				<img src="smoke.png" class="smoke" alt>
+				
+				<div class="footer">
+					<nav>
+						<ul>
+							<li><a href="https://www.facebook.com/pizzafangr/" class="icn fb"></a></li>
+							<!--<li><a href="#" class="icn tw"></a></li>-->
+							<li><a href="https://www.linkedin.com/company/pizza-fan-delivery-s-a" class="icn ln"></a></li>
+							<li><a href="https://plus.google.com/+pizzafan" class="icn gp"></a></li>
+						</ul>
+					</nav>
+					<span class="copy">PIZZA FAN 2018</span>
+				</div>
+			</div>
+		</div>
+		
+		<script src="../js/jquery-1.11.3.min.js"></script>
+		<script src="../js/jquery.placeholder.js"></script>
+		<script src="../js/custom.js"></script>
+  </body>
+</html>
